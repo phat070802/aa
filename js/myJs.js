@@ -1,11 +1,11 @@
 const textConfig = {
   text1: "Người đẹp đâu rồi ?",
   text2: "Bấm dô đây lẹ lên =))) ",
-  text3: " Tôi rủ người đẹp đi chơi nè...",
+  text3: " Người đẹp đi chơi với tui nha ...",
   text4: "",
   text5: "Không",
   text6: "Đi",
-  text7: "Ngày nào, mấy giờ , ở đâu =))) ",
+  text7: "Ngày nào, mấy giờ , ở đâu đó người đẹp =))) ",
   text8: "Gửi cho tớ <3",
  
   text10: "Người đẹp này dễ thương =)))",
